@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.bicep": "bibtex",
+        "usb_serial_jtag.h": "c"
+    }
+}
